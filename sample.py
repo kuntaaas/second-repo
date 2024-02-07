@@ -7,3 +7,4 @@ def sample(a,b):
         return 100
 b=sample(10,5)
 print(b)
+print("new line")
